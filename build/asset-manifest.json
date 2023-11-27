@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce4df86e.css",
+    "main.js": "/static/js/main.2df0c6c5.js",
+    "static/media/recomendaciones.png": "/static/media/recomendaciones.29200a73f1b9ec611f4f.png",
+    "static/media/mm2.jpg": "/static/media/mm2.1df85cd256f3b1c9ba8e.jpg",
+    "static/media/Loginimg.png": "/static/media/Loginimg.8a7277f38a295808f466.png",
+    "static/media/mascota-importancia.jpg": "/static/media/mascota-importancia.9d2d5657ba40113aac74.jpg",
+    "static/media/mm3.jpg": "/static/media/mm3.09b847baee1e0f9e79dd.jpg",
+    "static/media/mm1.jpg": "/static/media/mm1.9bf4553893da0bc089f1.jpg",
+    "static/media/Registroimg.png": "/static/media/Registroimg.fbc392337c5caf2b29e3.png",
+    "static/media/adopcion-mascotas.jpg": "/static/media/adopcion-mascotas.0e62ec7cf5c901c54afb.jpg",
+    "static/media/cuidados.png": "/static/media/cuidados.7b16040439c5515ff9c0.png",
+    "static/media/adopcion.png": "/static/media/adopcion.d6f62c8a9c8834d59d5e.png",
+    "static/media/importancia.png": "/static/media/importancia.6e8f378e8aca2d3b786b.png",
+    "static/media/Perro-Gato.png": "/static/media/Perro-Gato.2f87626715413b93955c.png",
+    "static/media/Logo.png": "/static/media/Logo.27b27c1641cf8e96b1f2.png",
+    "index.html": "/index.html",
+    "static/media/cat-solid.svg": "/static/media/cat-solid.f1aa497fd1510e996d2408628fce8d7e.svg",
+    "static/media/shield-dog.svg": "/static/media/shield-dog.e167a24e26db11073b0221baedc7bf84.svg",
+    "static/media/dog-solid.svg": "/static/media/dog-solid.06ad85d126e31d8786de7feedb73f733.svg",
+    "static/media/envelope-fill.svg": "/static/media/envelope-fill.d4fbb80a44151115b23bce815b476b42.svg",
+    "static/media/lock-fill.svg": "/static/media/lock-fill.cd7f1c01d8b58c80c2e6fd4c0694e9a2.svg",
+    "static/media/person-fill.svg": "/static/media/person-fill.4d9c884fc12970b6d9157e32396a5748.svg",
+    "main.ce4df86e.css.map": "/static/css/main.ce4df86e.css.map",
+    "main.2df0c6c5.js.map": "/static/js/main.2df0c6c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce4df86e.css",
+    "static/js/main.2df0c6c5.js"
+  ]
+}
